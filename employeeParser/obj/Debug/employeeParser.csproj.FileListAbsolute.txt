@@ -1,0 +1,10 @@
+C:\Users\14168\source\repos\employeeParser\employeeParser\bin\Debug\employeeParser.exe.config
+C:\Users\14168\source\repos\employeeParser\employeeParser\bin\Debug\employeeParser.exe
+C:\Users\14168\source\repos\employeeParser\employeeParser\bin\Debug\employeeParser.pdb
+C:\Users\14168\source\repos\employeeParser\employeeParser\bin\Debug\EPPlus.dll
+C:\Users\14168\source\repos\employeeParser\employeeParser\bin\Debug\EPPlus.xml
+C:\Users\14168\source\repos\employeeParser\employeeParser\obj\Debug\employeeParser.csprojAssemblyReference.cache
+C:\Users\14168\source\repos\employeeParser\employeeParser\obj\Debug\employeeParser.csproj.CoreCompileInputs.cache
+C:\Users\14168\source\repos\employeeParser\employeeParser\obj\Debug\employeeParser.csproj.CopyComplete
+C:\Users\14168\source\repos\employeeParser\employeeParser\obj\Debug\employeeParser.exe
+C:\Users\14168\source\repos\employeeParser\employeeParser\obj\Debug\employeeParser.pdb
