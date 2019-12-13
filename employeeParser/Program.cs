@@ -17,7 +17,7 @@ namespace employeeParser
             List<int> nums = new List<int>() { 2, 3, 4, 6, 9 };
 
             Parser p = new Parser(@"C:\Users\14168\Desktop\EmployeeMatrix.xlsx");
-            p.CreateExcelPackage("Two",nums,2,56);
+            p.CreateExcelPackage("Four",nums,2,20);
 
 
             var ans=p.GetDict();
@@ -39,7 +39,7 @@ namespace employeeParser
         //        FileInfo fi = new FileInfo(filePath);
         //            using (ExcelPackage excelPackage = new ExcelPackage(fi))
         //            {
-        //                ExcelWorksheet firstWorksheet = excelPackage.Workbook.Worksheets["Two"];
+        //                ExcelWorksheet firstWorksheet = excelPackage.Workbook.Worksheets["Three"];
 
         //    List<object> columnB = new List<object>();
 
